@@ -1,6 +1,6 @@
 # Machine learning
 
-
+![Machine learning](https://www.bvm.co.uk/wp-content/uploads/2019/11/machine.jpg)
 
 ***
 
