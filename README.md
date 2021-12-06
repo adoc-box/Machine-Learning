@@ -21,7 +21,6 @@
 	- [MLP - Dropout (Keras - Tensorflow)](https://github.com/adoc-box/Machine-Learning/blob/0bc7ab67d7f60386cec811e2b58c1dd6b6ae7104/Classification%20(MLP,%20dropout%20-%20keras,%20tensorflow)%20-%20Breast%20Cancer%20Coimbra.ipynb)
 
 
-
 * Letter Recognition
 	- [Logistic regression, SVM](https://github.com/adoc-box/Machine-Learning/blob/0bc7ab67d7f60386cec811e2b58c1dd6b6ae7104/Classification%20(Logistic%20regression,%20SVM)%20-%20Letter%20Recognition.ipynb)
 
@@ -33,8 +32,17 @@
 * Wine
 	- [MLP (Keras - Tensorflow)](https://github.com/adoc-box/Machine-Learning/blob/0bc7ab67d7f60386cec811e2b58c1dd6b6ae7104/Classification%20(MLP%20-%20keras,%20tensorflow)%20-%20Wine.ipynb)
 
+
 * Bank marketing
 	- [MLP - Dropout (Keras - Tensorflow)](https://github.com/adoc-box/Machine-Learning/blob/0bc7ab67d7f60386cec811e2b58c1dd6b6ae7104/Classification%20(MLP,%20dropout%20-%20keras,%20tensorflow)%20-%20Bank%20Marketing.ipynb)
+
+
+* Flowers Recognition
+	- [CNN (Keras - Tensorflow)](https://github.com/adoc-box/Machine-Learning/blob/7d1258d029627a98c3df30a274e3275cda119dfb/Classification%20(CNN%20-%20keras,%20tensorflow)%20-%20Flowers%20Recognition.ipynb)
+	- [CNN, Generator (Keras - Tensorflow)](https://github.com/adoc-box/Machine-Learning/blob/7d1258d029627a98c3df30a274e3275cda119dfb/Classification%20(CNN,%20generator%20-%20keras,%20tensorflow)%20-%20Flowers%20Recognition.ipynb)
+	- [CNN, Data Augmentation (Keras - Tensorflow)](https://github.com/adoc-box/Machine-Learning/blob/7d1258d029627a98c3df30a274e3275cda119dfb/Classification%20(CNN,%20data%20augmentation%20-%20keras,%20tensorflow)%20-%20Flowers%20Recognition.ipynb)
+	- [CNN, Transfer learning (Keras - Tensorflow)](https://github.com/adoc-box/Machine-Learning/blob/7d1258d029627a98c3df30a274e3275cda119dfb/Classification%20(CNN,%20transfer%20learning%20-%20keras,%20tensorflow)%20-%20Flowers%20Recognition.ipynb)
+
 
 ***
 
