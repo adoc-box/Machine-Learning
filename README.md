@@ -16,9 +16,10 @@
 	- [RandomForest, Adaboost, GBM, XGB, Grid Search](https://github.com/adoc-box/Machine-Learning/blob/0bc7ab67d7f60386cec811e2b58c1dd6b6ae7104/Classification%20(RandomForest,%20Adaboost,%20GBM,%20XGB,%20GridSearch)%20-%20Breast%20Cancer%20Coimbra.ipynb)
 	- [Logistic regression, random search, grid search, cross-validation](https://github.com/adoc-box/Machine-Learning/blob/0bc7ab67d7f60386cec811e2b58c1dd6b6ae7104/Classification%20(Logistic%20regression,%20GridSearch,%20RandomSearch,%20Cross-Validation)%20-%20Breast%20Cancer%20Coimbra.ipynb)
 	- [Naive Bayes](https://github.com/adoc-box/Machine-Learning/blob/0bc7ab67d7f60386cec811e2b58c1dd6b6ae7104/Classification%20(Naive%20Bayes)%20-%20Breast%20Cancer%20Coimbra.ipynb)
+	- [SVM, Random Search, Pipeline](https://github.com/adoc-box/Machine-Learning/blob/0bc7ab67d7f60386cec811e2b58c1dd6b6ae7104/Classification%20(SVM,%20RandomSearch,%20Pipeline)%20-%20Breast%20Cancer%20Coimbra.ipynb)
 	- [MLP (Keras - Tensorflow)](https://github.com/adoc-box/Machine-Learning/blob/0bc7ab67d7f60386cec811e2b58c1dd6b6ae7104/Classification%20(MLP%20-%20keras,%20tensorflow)%20-%20Breast%20Cancer%20Coimbra.ipynb)
 	- [MLP - Dropout (Keras - Tensorflow)](https://github.com/adoc-box/Machine-Learning/blob/0bc7ab67d7f60386cec811e2b58c1dd6b6ae7104/Classification%20(MLP,%20dropout%20-%20keras,%20tensorflow)%20-%20Breast%20Cancer%20Coimbra.ipynb)
-	- [SVM, Random Search, Pipeline](https://github.com/adoc-box/Machine-Learning/blob/0bc7ab67d7f60386cec811e2b58c1dd6b6ae7104/Classification%20(SVM,%20RandomSearch,%20Pipeline)%20-%20Breast%20Cancer%20Coimbra.ipynb)
+
 
 
 * Letter Recognition
