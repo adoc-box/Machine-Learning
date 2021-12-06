@@ -3,7 +3,7 @@
 <!-- ![Machine learning](https://www.bvm.co.uk/wp-content/uploads/2019/11/machine.jpg) -->
 
 <p align="center">
-  <img src="https://github.com/adoc-box/Images/blob/7f3b96579566a46170f24c041694906e3c1d167c/Logo_MachineLearning.png?raw=True" />
+  <img src="https://github.com/adoc-box/Images/blob/66ac94d8572e0539987c54f2e924016db0e088da/Logo_MachineLearning.png?raw=True" />
 </p>
 
 ***
