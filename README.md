@@ -42,10 +42,10 @@ The algorithms were tested on Linux Mint (*Python 3.8.10*) and Google Colab.
 
 
 * Flowers Recognition
-	- [CNN (Keras - Tensorflow)](Classification (CNN - keras, tensorflow) - Flowers Recognition.ipynb)
-	- [CNN, Generator (Keras - Tensorflow)](https://github.com/adoc-box/Machine-Learning/blob/7d1258d029627a98c3df30a274e3275cda119dfb/Classification%20(CNN,%20generator%20-%20keras,%20tensorflow)%20-%20Flowers%20Recognition.ipynb)
-	- [CNN, Data Augmentation (Keras - Tensorflow)](https://github.com/adoc-box/Machine-Learning/blob/7d1258d029627a98c3df30a274e3275cda119dfb/Classification%20(CNN,%20data%20augmentation%20-%20keras,%20tensorflow)%20-%20Flowers%20Recognition.ipynb)
-	- [CNN, Transfer learning (Keras - Tensorflow)](https://github.com/adoc-box/Machine-Learning/blob/7d1258d029627a98c3df30a274e3275cda119dfb/Classification%20(CNN,%20transfer%20learning%20-%20keras,%20tensorflow)%20-%20Flowers%20Recognition.ipynb)
+	- [CNN (Keras - Tensorflow)](https://github.com/adoc-box/Machine-Learning/blob/aed20ccaf084cb8c49cb79829ab8127b415ce5d4/Classification%20(CNN%20-%20keras,%20tensorflow)%20-%20Flowers%20Recognition.ipynb)
+	- [CNN, Generator (Keras - Tensorflow)](https://github.com/adoc-box/Machine-Learning/blob/aed20ccaf084cb8c49cb79829ab8127b415ce5d4/Classification%20(CNN,%20generator%20-%20keras,%20tensorflow)%20-%20Flowers%20Recognition.ipynb)
+	- [CNN, Data Augmentation (Keras - Tensorflow)](https://github.com/adoc-box/Machine-Learning/blob/aed20ccaf084cb8c49cb79829ab8127b415ce5d4/Classification%20(CNN,%20data%20augmentation%20-%20keras,%20tensorflow)%20-%20Flowers%20Recognition.ipynb)
+	- [CNN, Transfer learning (Keras - Tensorflow)](https://github.com/adoc-box/Machine-Learning/blob/aed20ccaf084cb8c49cb79829ab8127b415ce5d4/Classification%20(CNN,%20transfer%20learning%20-%20keras,%20tensorflow)%20-%20Flowers%20Recognition.ipynb)
 
 
 * Amazon Baby Products (Sentiment analysis)
