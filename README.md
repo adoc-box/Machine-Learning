@@ -77,3 +77,9 @@ The algorithms were tested on Linux Mint (*Python 3.8.10*) and Google Colab.
 	- [OLR, Ridge, LASSO](https://github.com/adoc-box/Machine-Learning/blob/0bc7ab67d7f60386cec811e2b58c1dd6b6ae7104/Regression%20(OLR,%20Ridge,%20LASSO)%20-%20Seoul%20Bike%20Sharing%20Demand.ipynb)
 	- [MLP (Keras - Tensorflow)](https://github.com/adoc-box/Machine-Learning/blob/0bc7ab67d7f60386cec811e2b58c1dd6b6ae7104/Regression%20(MLP%20-%20keras,%20tensorflow)%20-%20Seoul%20Bike%20Sharing%20Demand.ipynb)
 
+***
+
+## Miscellaneous
+
+* [Grad Cam (VGG19 - keras, tensorflow) - Goldfish](https://github.com/adoc-box/Machine-Learning/blob/dbfbd940a65bdae9964101c98a454376f7b543bd/Grad%20Cam%20(VGG19%20-%20keras,%20tensorflow)%20-%20goldfish.ipynb)
+* [FeatureMap Visualization (InceptionV3 - keras, tensorflow)](https://github.com/adoc-box/Machine-Learning/blob/dbfbd940a65bdae9964101c98a454376f7b543bd/FeatureMap%20Visualization%20(InceptionV3%20-%20keras,%20tensorflow).ipynb)
