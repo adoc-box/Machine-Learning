@@ -49,7 +49,11 @@ The algorithms were tested on Linux Mint (*Python 3.8.10*) and Google Colab.
 
 
 * Amazon Baby Products (Sentiment analysis)
-	- [Embedding MLP - Keras, Tensorflow](https://github.com/adoc-box/Machine-Learning/blob/7af5442e2e4bf55a385d1d76e8575921e24948b4/Classification%20(Embedding%20MLP%20-%20keras,%20tensorflow)%20-%20Reviews%20of%20Amazon%20Baby%20Products.ipynb)
+	- [Embedding MLP (Keras, Tensorflow)](https://github.com/adoc-box/Machine-Learning/blob/7af5442e2e4bf55a385d1d76e8575921e24948b4/Classification%20(Embedding%20MLP%20-%20keras,%20tensorflow)%20-%20Reviews%20of%20Amazon%20Baby%20Products.ipynb)
+	- [Transformer (Keras, Tensorflow)](https://github.com/adoc-box/Machine-Learning/blob/a0cff93e2b8bd97b160eebbc7bbe551ccbb64969/Classification%20(Transformer%20-%20keras,%20tensorflow)%20-%20Reviews%20of%20Amazon%20Baby%20Products.ipynb)
+
+* Covid-19
+	- [CNN, Data Augmentation (Keras - Tensorflow)](https://github.com/adoc-box/Machine-Learning/blob/a0cff93e2b8bd97b160eebbc7bbe551ccbb64969/Classification%20(CNN,%20data%20augmentation%20-%20keras,%20tensorflow)%20-%20Covid19.ipynb)
 
 ***
 
