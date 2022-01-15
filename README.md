@@ -82,4 +82,4 @@ The algorithms were tested on Linux Mint (*Python 3.8.10*) and Google Colab.
 ## Miscellaneous
 
 * [Grad Cam (VGG19 - keras, tensorflow) - Goldfish](https://github.com/adoc-box/Machine-Learning/blob/dbfbd940a65bdae9964101c98a454376f7b543bd/Grad%20Cam%20(VGG19%20-%20keras,%20tensorflow)%20-%20goldfish.ipynb)
-* [FeatureMap Visualization (InceptionV3 - keras, tensorflow)](https://github.com/adoc-box/Machine-Learning/blob/dbfbd940a65bdae9964101c98a454376f7b543bd/FeatureMap%20Visualization%20(InceptionV3%20-%20keras,%20tensorflow).ipynb)
+* [FeatureMap Visualization (InceptionV3 - keras, tensorflow)](https://github.com/adoc-box/Machine-Learning/blob/95f329a98a407ba916c2b7c81a65fe772a14ea5a/FeatureMap%20Visualization%20(InceptionV3%20-%20keras,%20tensorflow).ipynb)
