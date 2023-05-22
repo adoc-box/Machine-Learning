@@ -8,7 +8,7 @@
 
 ***
 
-The algorithms were tested on Linux Mint (*Python 3.8.10*) and Google Colab.
+These algorithms were tested on Linux Mint (*Python 3.8.10*) and Google Colab.
 
 ***
 
